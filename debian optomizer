@@ -10,7 +10,5 @@ sudo apt-get update
 sudo apt-get install apt-fast
 sudo gedit /etc/apt/apt.conf.d/00aptitude
 sudo apt update
-sudo apt install tlp tlp-rdw
-sudo tlp start
 sudo apt autoremove
 sudo apt-get clean
