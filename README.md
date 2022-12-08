@@ -1,4 +1,4 @@
 # debian-ubuntu-problem-patcher-optimizer
 optimizes/ fixes errors
-# we are not responsible for problems on your system
+# We are NOT responsible for PROBLEMS on your SYSTEM
 tested on debian/ubuntu/zorin os /pop_os
