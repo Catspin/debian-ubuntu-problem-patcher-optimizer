@@ -9,8 +9,10 @@ sudo add-apt-repository ppa:apt-fast/stable
 sudo apt-get update
 sudo apt-get install apt-fast
 sudo gedit /etc/apt/apt.conf.d/00aptitude
+sudo apt --purge autoremove
 sudo apt update
 sudo apt autoremove
 sudo apt-get clean
 sudo apt install tlp tlp-rdw
 sudo tlp start
+sudo apt-get clean
