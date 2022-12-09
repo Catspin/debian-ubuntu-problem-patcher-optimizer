@@ -12,4 +12,5 @@ contact me on reddit on https://www.reddit.com/r/LinuxForYou/ ore https://www.re
 
 <img src="https://sourcedigit.com/wp-content/uploads/2016/07/sh-file-01.jpg" alt="How To Run A Shell File In Ubuntu - Run .sh File In Ubuntu"/>
 
-this tool tries to fix problems with , the tool removes apt logs, speeds up the system removes old kernels updates and installs battery optimization.
+this tool tries to fix problems with you system , the tool removes apt logs, speeds up the system removes old kernels updates and installs battery optimization.
+the script executes the following commands
