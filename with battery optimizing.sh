@@ -8,7 +8,6 @@ sudo apt install preload
 sudo add-apt-repository ppa:apt-fast/stable
 sudo apt-get update
 sudo apt-get install apt-fast
-sudo gedit /etc/apt/apt.conf.d/00aptitude
 sudo apt --purge autoremove
 sudo apt update
 sudo apt autoremove
