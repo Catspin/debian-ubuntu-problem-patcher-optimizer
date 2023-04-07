@@ -7,8 +7,6 @@ sudo apt-get dist-upgrade
 update-manager –d
 
 
-sudo apt install
-sudo update-grub
 sudo apt install preload
 sudo add-apt-repository ppa:apt-fast/stable
 sudo apt-get update
